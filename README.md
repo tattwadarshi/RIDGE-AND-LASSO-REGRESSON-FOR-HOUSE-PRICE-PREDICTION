@@ -7,8 +7,8 @@ Data Source: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Columns:
 
-ida: notation for a house
-date: Date house was sold
+- ida: notation for a house
+- date: Date house was sold
 price: Price is prediction target
 bedrooms: Number of Bedrooms/House
 bathrooms: Number of bathrooms/House
