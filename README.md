@@ -3,7 +3,8 @@
 ## PROBLEM STATEMENT
 Dataset includes house sale prices for King County in USA.
 Homes that are sold in the time period: May, 2014 and May, 2015.
-Data Source: https://www.kaggle.com/harlfoxem/housesalesprediction
+
+- Data Source: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Columns:
 
